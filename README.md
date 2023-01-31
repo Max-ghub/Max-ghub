@@ -2,9 +2,6 @@
 <p>
   <b>My contacts:</b>
   <br/>
-  <a href="mailto:max_artyukhin@mail.ru">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
-  </a>
   <a href="https://t.me/max_98763">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
