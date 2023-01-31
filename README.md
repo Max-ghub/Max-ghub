@@ -7,7 +7,7 @@
 <p>
   <b>My contacts:</b>
   <br/>
-  <a href="https://t.me/max_98763">
+  <a href="https://t.me/max_98763" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
   <a href="https://discordapp.com/users/421308883311788032/">
