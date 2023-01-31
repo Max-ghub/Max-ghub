@@ -1,6 +1,6 @@
-### Hello! 😋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=10000&color=ED4245D7&vCenter=true&repeat=false&width=375&height=21&lines=Hello!+%F0%9F%98%8B" />
 
-My name is Max. I'm a beginner Frontend developer.
+<p>My name is Max. I'm a beginner Frontend developer.</p>
 
 <p>
   <b>My contacts:</b>
@@ -15,11 +15,10 @@ My name is Max. I'm a beginner Frontend developer.
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-ghub&layout=compact&bg_color=303133&text_color=E8E8DC&title_color=E8E8DC&hide_border=true" width="375px" />
+  <br/>
+  <a href="https://www.codewars.com/users/M%D0%B0x">
+    <img src="https://www.codewars.com/users/M%D0%B0x/badges/large" width="375px" />
+  </a>
 </p>
 
-<a href="https://www.codewars.com/users/M%D0%B0x">
-  <img src="https://www.codewars.com/users/M%D0%B0x/badges/large" width="375px" />
-</a>
-<br/>
-<br/>
-Thank you for visiting my profile. 😉
+<p>Thank you for visiting my profile. 😉</p>
