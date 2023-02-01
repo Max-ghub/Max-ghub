@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=10000&color=ED4245D7&vCenter=true&repeat=false&width=375&height=21&lines=Hello!+%F0%9F%98%8B" alt="Hello text"/>
 </a>
 
-<p>My name is Max. I'm a beginner Frontend developer.</p>
+<p>My name is Max. I'm a beginner Frontend developer. Thank you for visiting my profile. 😉</p>
 
 <p>
   <b>My contacts:</b>
@@ -27,5 +27,3 @@
     <img src="https://www.codewars.com/users/M%D0%B0x/badges/large" width="375px" alt="Codewars Stats"/>
   </a>
 </p>
-
-<p>Thank you for visiting my profile. 😉</p>
