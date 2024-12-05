@@ -7,14 +7,8 @@
 <p>
   <b>My contacts:</b>
   <br/>
-  <a href="https://t.me/max_98763">
+  <a href="https://t.me/max_48653">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
-  </a>
-  <a href="https://linkedin.com/in/mаx">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="https://discordapp.com/users/421308883311788032/">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
   </a>
 </p>
 
